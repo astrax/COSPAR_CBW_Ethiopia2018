@@ -1,0 +1,57 @@
+2015_events\20141229events.txt  #Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+2015_events\20141230events.txt->3120 +     0047   ////      0056  LEA  C   RSP  106-180   II/1    415           
+2015_events\20141230events.txt->3130 +     0100   ////      0100  PAL  C   RSP  125-180   II/1    506           
+2015_events\20150208events.txt->2310 +     2238   ////      2244  LEA  C   RSP  031-041   II/1    626       2282
+2015_events\20150209events.txt->2510 +     2314   ////      2326  CUL  C   RSP  027-095   II/1                  
+2015_events\20150209events.txt->2520 +     2323   ////      2329  LEA  C   RSP  033-061   II/1    1190          
+2015_events\20150302events.txt->4270       0640   ////      0645  CUL  C   RSP  065-180   II/1              2290
+2015_events\20150303events.txt->4450       0134   ////      0141  CUL  C   RSP  060-180   II/1    750       2290
+2015_events\20150307events.txt->4980 +     2157   ////      2203  PAL  C   RSP  065-180   II/1    704           
+2015_events\20150309events.txt->5550 +     1744   ////      1752  SAG  C   RSP  025-055   II/1    871       2297
+2015_events\20150310events.txt->5630 +     0005   ////      0012  LEA  C   RSP  025-047   II/2    967       2297
+2015_events\20150310events.txt->5670       0328   ////      0342  CUL  C   RSP  040-180   II/1              2297
+2015_events\20150311events.txt->6150 +     0003   ////      0006  LEA  C   RSP  037-147   II/1    1512      2297
+2015_events\20150311events.txt->6380 +     1623   ////      1636  SAG  C   RSP  060-180   II/2    1461      2297
+2015_events\20150312events.txt->6490 +     0220   ////      0225  CUL  C   RSP  080-170   II/1              2299
+2015_events\20150312events.txt->6820       2154   ////      2200  CUL  C   RSP  080-180   II/1                  
+2015_events\20150315events.txt->7310 +     0127   ////      0137  PAL  C   RSP  027-054   II/2    745       2297
+2015_events\20150317events.txt->7860 +     2333   ////      2342  CUL  C   RSP  060-260   II/2              2297
+2015_events\20150404events.txt-> 580       2313   ////      2319  PAL  U   RSP  030-054   II/1    933           
+2015_events\20150406events.txt-> 760 +     1854   ////      1904  PAL  C   RSP  030-063   II/1    691       2320
+2015_events\20150412events.txt->1880       2335   ////      2346  PAL  C   RSP  025-082   II/2    1350          
+2015_events\20150423events.txt->4190       0922   ////      0935  SVI  C   RSP  025-078   II/1    664           
+2015_events\20150505events.txt->6090 +     1351   ////      1359  SVI  C   RSP  028-072   II/2    1110      2339
+2015_events\20150505events.txt->6270       2212   ////      2219  PAL  C   RSP  025-107   II/2    1163          
+2015_events\20150505events.txt->6280       2219   ////      2227  PAL  C   RSP  025-083   II/1    1106          
+2015_events\20150512events.txt->8490       0247   ////      0252  CUL  C   RSP  030-045   II/1                  
+2015_events\20150512events.txt->8590 +     1233   ////      1233  SVI  C   RSP  040-053   II/1    1258          
+2015_events\20150513events.txt->9080 +     1635   ////      1638  SVI  U   RSP  034-057   II/1    1686      2341
+2015_events\20150513events.txt->9110 +     1821   ////      1832  SAG  C   RSP  028-104   II/2    1568      2345
+2015_events\20150518events.txt-> 270 +     1427   ////      1437  SVI  C   RSP  025-053   II/1    794           
+2015_events\20150527events.txt-> 970 +     1234   ////      1247  SAG  C   RSP  025-090   II/1    468           
+2015_events\20150601events.txt->1180 +     1333   ////      1403  SVI  C   RSP  025-160   II/2    1026          
+2015_events\20150621events.txt->5420 +     0224   ////      0247  PAL  C   RSP  025-180   II/2    682       2371
+2015_events\20150622events.txt->5920 +     0558   ////      0607  LEA  C   RSP  059-119   II/1    315           
+2015_events\20150622events.txt->6100 +     1805   ////      1826  SAG  C   RSP  025-180   II/1    1480      2371
+2015_events\20150625events.txt->7100       0816   ////      0833  SVI  C   RSP  025-079   II/1    2056      2371
+2015_events\20150718events.txt->1530       1450   ////      1459  SAG  C   RSP  025-032   II/1    418           
+2015_events\20150821events.txt->6000       0959   ////      1001  SVI  C   RSP  025-136   II/1    490       2403
+2015_events\20150822events.txt->6220 +     0650   ////      0714  LEA  C   RSP  025-180   II/2    1149      2403
+2015_events\20150825events.txt->7980 +     2217   ////      2225  CUL  C   RSP  045-060   II/1              2403
+2015_events\20150828events.txt->9080       0630   ////      0642  LEA  C   RSP  026-070   II/1    510           
+2015_events\20150918events.txt->1840       0411   ////      0416  LEA  C   RSP  074-163   II/1    850       2415
+2015_events\20150920events.txt->2390       1816   ////      1822  PAL  U   RSP  025-039   II/1    1304      2415
+2015_events\20150929events.txt->5670 +     1930   ////      1935  PAL  C   RSP  044-164   II/2    530           
+2015_events\20151016events.txt->8030 +     1324   ////      1334  SVI  C   RSP  030-180   II/2    568           
+2015_events\20151017events.txt->8110       0421   ////      0426  LEA  C   RSP  025-180   II/1    171       2435
+2015_events\20151021events.txt->8890       1800   ////      1813  SAG  C   RSP  025-126   II/1    527       2436
+2015_events\20151029events.txt-> 280 +     0219   ////      0232  CUL  C   RSP  035-400   II/1                  
+2015_events\20151029events.txt-> 210 +     0219   ////      0230  PAL  C   RSP  025-180   II/1    972           
+2015_events\20151029events.txt-> 220 +     0238   ////      0246  CUL  C   RSP  030-057   II/1              2437
+2015_events\20151104events.txt->2200 +     0323   ////      0334  PAL  C   RSP  041-180   II/2    790       2445
+2015_events\20151104events.txt->2320 +     1204   ////      1209  SVI  C   RSP  047-171   II/1    1033      2445
+2015_events\20151104events.txt->2340 +     1343   ////      1358  SAG  C   RSP  048-180   II/2    955       2443
+2015_events\20151109events.txt->2730 +     1305   ////      1319  SAG  C   RSP  025-180   II/2    957       2449
+2015_events\20151219events.txt->6750 +     1257   ////      1303  SAG  C   RSP  048-180   II/2    1098          
+2015_events\20151221events.txt->6990 +     0101   ////      0119  LEA  C   RSP  025-169   II/1    355       2472
+2015_events\20151223events.txt->7570 +     0036   ////      0049  PAL  C   RSP  025-180   II/2    1318      2473

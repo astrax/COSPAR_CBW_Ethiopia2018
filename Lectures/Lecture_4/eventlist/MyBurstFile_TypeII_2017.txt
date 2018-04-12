@@ -1,0 +1,19 @@
+2017_events\20161229events.txt  #Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+2017_events\20170402events.txt->1550 +     0807   ////      0817  SVI  C   RSP  025-069   II/1    628       2644
+2017_events\20170403events.txt->2040 +     1425   ////      1444  SVI  C   RSP  025-180   II/2    980       2644
+2017_events\20170418events.txt->3960 +     1949   ////      2006  PAL  C   RSP  025-073   II/2    1007          
+2017_events\20170601events.txt->5890 +     0144   ////      0150  PAL  C   RSP  025-180   II/1    1459      2661
+2017_events\20170713events.txt->9600       2006   ////      2025  SAG  C   RSP  025-169   II/1    770           
+2017_events\20170819events.txt->2950       2148   ////      2153  SAG  C   RSP  033-063   II/1    928       2671
+2017_events\20170902events.txt->5610 +     1536   ////      1548  SAG  C   RSP  025-134   II/2    976       2672
+2017_events\20170904events.txt->6620       2042   ////      2050  SAG  U   RSP  025-056   II/1    1472          
+2017_events\20170906events.txt->7340       1202   ////      1221  SVI  C   RSP  025-081   II/2    1765      2673
+2017_events\20170907events.txt->7780       1345   ////      1401  SVI  U   RSP  040-080   II/1    602       2673
+2017_events\20170907events.txt->7830       1831   ////      1836  PAL  C   RSP  025-180   II/1    505           
+2017_events\20170909events.txt->8840 +     2252   ////      2256  PAL  C   RSP  025-042   II/2    939       2673
+2017_events\20170910events.txt->9040 +     1608   ////      1612  SAG  C   RSP  025-043   II/1    928           
+2017_events\20170912events.txt->9340       0729   ////      0749  SVI  C   RSP  025-080   II/2    909       2680
+2017_events\20170912events.txt->9350       0747   ////      0749  LEA  C   RSP  025-111   II/2    1976      2680
+2017_events\20170912events.txt->9430 +     1921   ////      1937  PAL  C   RSP  034-060   II/2    672       2680
+2017_events\20171018events.txt->1420 +     0539   ////      0545  SVI  C   RSP  025-080   II/2    1502          
+2017_events\20171020events.txt->1490 +     2335   ////      2339  PAL  C   RSP  025-180   II/1    344           

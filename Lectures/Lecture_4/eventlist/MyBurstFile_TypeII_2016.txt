@@ -1,0 +1,16 @@
+2016_events\20151229events.txt  #Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+2016_events\20160101events.txt->9770       2321   ////      2324  LEA  C   RSP  030-039   II/1    1095          
+2016_events\20160101events.txt->9760       2324   ////      2326  LEA  C   RSP  030-039   II/1    1095          
+2016_events\20160115events.txt-> 570       0241   ////      0243  LEA  C   RSP  057-180   II/1    550           
+2016_events\20160211events.txt->4170 +     2035   ////      2044  SAG  C   RSP  025-133   II/1    483       2496
+2016_events\20160316events.txt->7620 +     0645   ////      0711  SVI  C   RSP  025-132   II/2    853           
+2016_events\20160412events.txt-> 670 +     0153   ////      0155  PAL  C   RSP  136-171   II/1    222           
+2016_events\20160416events.txt->2210 +     2049   ////      2055  PAL  C   RSP  025-073   II/1    743           
+2016_events\20160418events.txt->2350 +     0030   ////      0033  PAL  C   RSP  025-152   II/2    1869      2529
+2016_events\20160502events.txt->4040       0841   ////      0853  SVI  C   RSP  025-135   II/2    1800          
+2016_events\20160504events.txt->4300 +     1353   ////      1411  SVI  C   RSP  025-135   II/2    560       2535
+2016_events\20160516events.txt->5750 +     0058   ////      0059  LEA  C   RSP  060-179   II/2    715       2544
+2016_events\20160613events.txt-> 140 +     1836   ////      1837  SAG  C   RSP  114-180   II/1    941           
+2016_events\20160710events.txt->1730 +     0059   ////      0115  LEA  C   RSP  025-180   II/3    1435      2564
+2016_events\20160720events.txt->4530       2307   ////      2313  SAG  C   RSP  031-062   II/1    1168      2567
+2016_events\20160723events.txt->5470       0529   ////      0535  SVI  C   RSP  025-052   II/1    729       2567

@@ -1,0 +1,30 @@
+Introduction
+
+Check version of python: type python --version
+-> Expected result: Python 2.7.xx:: anaconda 4.1.1 (64bit)
+Check version of pip: type pip --version
+-> Expected result: pip 9.0.3 from c:\xxxx (python 2.7)
+
+
+Change/edit configuration
+Spyder: Tools->Preferences->ObjectInspector Enable Automatic connections
+
+ctrl+i -> information about a function, e.g. ctrl+i savefig(..)
+ctrl+. -> kills and restarts kernel
+After import&run:
+dir(function), e.g. dir (plt)  or dir(np) lists all functions of the library plott or numpy
+
+
+
+
+Lecture 1
+
+a) start with hello.py and play with text and numbers
+
+b) continue to plot plasma frequency -> r_fp.py play with color, log-scales, labelsizes, format for saving
+
+c) continue to plot driftrate of a type II burst -> dfdt.py and play with grid, log-scales, 
+   set additional symbols, compare different formats for saving (quality and size)
+
+
+

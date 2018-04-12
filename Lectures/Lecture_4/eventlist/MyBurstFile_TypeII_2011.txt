@@ -1,0 +1,74 @@
+2011_events\20101229events.txt  #Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+2011_events\20101231events.txt->2700       0424   ////      0433  LEA  C   RSP  029-156   II/1    875       1138
+2011_events\20110127events.txt->5060       0708   ////      0727  SVI  C   RSP  025-083   II/1    901           
+2011_events\20110127events.txt->5070       1208   ////      1227  PAL  C   RSP  025-130   II/1    732           
+2011_events\20110127events.txt->5050       1208   ////      1227  COM  C   RSP  25-83     II/1    901       1149
+2011_events\20110127events.txt->5080 +     2002   ////      2011  CUL  C   RSP  057-130   II/2                  
+2011_events\20110128events.txt->5110 +     0101   ////      0112  COM  C   RSP  30-80     II/1    732       1149
+2011_events\20110211events.txt->6020       2146   ////      2152  PAL  C   RSP  027-114   II/2    1977          
+2011_events\20110213events.txt->6310 +     1735   ////      1741  PAL  C   RSP  050-180   II/1    1005      1158
+2011_events\20110214events.txt->6700 +     1303   ////      1312  SVI  C   RSP  025-083   II/2    555           
+2011_events\20110214events.txt->6750       1728   ////      1742  SAG  C   RSP  025-180   II/2    1479      1158
+2011_events\20110215events.txt->6880 +     0152   ////      0200  CUL  C   RSP  057-260   II/2                  
+2011_events\20110216events.txt->7410 +     1423   ////      1435  SVI  C   RSP  038-180   II/3    1386      1158
+2011_events\20110217events.txt->7880 +     2140   ////      2145  PAL  C   RSP  025-099   II/1    1695      1158
+2011_events\20110224events.txt->9390 +     0737   ////      0805  LEA  C   RSP  025-180   II/2    1283      1163
+2011_events\20110228events.txt-> 110 +     0740   ////      0744  CUL  C   RSP  057-110   II/1              1164
+2011_events\20110228events.txt-> 120 +     0741   ////      0744  SVI  C   RSP  059-180   II/1    1038          
+2011_events\20110307events.txt->1780 +     1425   ////      1437  SAG  C   RSP  025-180   II/2    1320      1166
+2011_events\20110307events.txt->1830       1954   ////      2015  SAG  C   RSP  025-180   II/3    1133      1164
+2011_events\20110308events.txt->1940 +     0344   ////      0350  CUL  C   RSP  057-160   II/2              1171
+2011_events\20110312events.txt->3060       0441   ////      0447  LEA  C   RSP  033-180   II/1    454       1166
+2011_events\20110312events.txt->3170 +     1526   ////      1535  SAG  C   RSP  033-180   II/2    954       1166
+2011_events\20110325events.txt->5740       2314   ////      2325  LEA  C   RSP  025-180   II/1    643           
+2011_events\20110327events.txt->5860 +     0511   ////      0516  LEA  C   RSP  050-164   II/1    651           
+2011_events\20110427events.txt-> 330 +     0221   ////      0229  PAL  U   RSP  25.98     II/2    935           
+2011_events\20110511events.txt->1590 +     0227   ////      0242  CUL  C   RSP  027-150   II/2                  
+2011_events\20110529events.txt->2880 +     1025   ////      1033  SAG  U   RSP  25-35     II/1    554       1226
+2011_events\20110529events.txt->2980       2108   ////      2111  COM  C   RSP  32-180    II/2    1548km/s  1227
+2011_events\20110530events.txt->3080       1106   ////      1110  COM  C   RSP  25-61     II/1    1697      1227
+2011_events\20110607events.txt->3710       0625   ////      0650  LEA  C   RSP  25-120    II/2              1226
+2011_events\20110703events.txt->6350 +     0005   ////      0008  CUL  C   RSP  040-140   II/3              1244
+2011_events\20110711events.txt->7910 +     1049   ////      1104  SVI  C   RSP  025-061   II/2    977       1249
+2011_events\20110802events.txt->1770 +     0608   ////      0622  CUL  C   RSP  023-090   II/2              1261
+2011_events\20110802events.txt->1760       0617   ////      0628  CUL  C   RSP  018-057   II/2                  
+2011_events\20110803events.txt->2380 +     1352   ////      1344  SAG  U   RSP  025-081   II/1    812       1261
+2011_events\20110804events.txt->2550 +     0354   ////      0403  LEA  C   RSP  066-180   II/2    750       1261
+2011_events\20110808events.txt->3980 +     1803   ////      1816  SAG  C   RSP  025-135   II/1    3284      1263
+2011_events\20110809events.txt->4220 +     0801   ////      0816  SVI  C   RSP  025-180   II/1    1551      1263
+2011_events\20110810events.txt->4490 +     1607   ////      1619  SAG  C   RSP  025-079   II/2    659           
+2011_events\20110828events.txt->6560 +     0420   ////      0428  CUL  C   RSP  057-180   II/1                  
+2011_events\20110904events.txt->7560 +     0442   ////      0449  CUL  C   RSP  057-130   II/1    600       1286
+2011_events\20110904events.txt->7700       0448   ////      0454  CUL  C   RSP  045-095   II/1    600           
+2011_events\20110906events.txt->7910 +     0146   ////      0153  CUL  C   RSP  050-300   II/3              1283
+2011_events\20110906events.txt->8110 +     2219   ////      2234  CUL  C   RSP  040-300   II/2              1283
+2011_events\20110906events.txt->8120       2236   ////      2238  CUL  C   RSP  030-045   II/1                  
+2011_events\20110907events.txt->8310       2238   ////      2259  CUL  C   RSP  040-450   II/1              1283
+2011_events\20110909events.txt->8830 +     0618   ////      0620  LEA  C   RSP  036-091   II/1    717       1283
+2011_events\20110911events.txt->9740 +     0904   ////      0913  LEA  U   RSP  100-180   II/1    439       1283
+2011_events\20110920events.txt->1900       0700   ////      0712  CUL  C   RSP  027-060   II/1              1301
+2011_events\20110920events.txt->1920       0704   ////      0711  SVI  U   RSP  042-031   II/1    1169          
+2011_events\20110922events.txt->2870 +     1039   ////      1045  SVI  C   RSP  025-086   II/2    1035      1302
+2011_events\20110923events.txt->3400 +     2353   ////      0006  LEA  C   RSP  025-180   II/3    993       1302
+2011_events\20110924events.txt->3540       0935   ////      0942  LEA  C   RSP  025-180   II/2    2293      1302
+2011_events\20110924events.txt->3760 +     1914   ////      1929  SAG  C   RSP  025-180   II/2    1369          
+2011_events\20110926events.txt->4780 +     1128   ////      1137  SAG  U   RSP  102-180   II/1    502           
+2011_events\20110929events.txt->5760 +     1257   ////      1307  SAG  C   RSP  027-037   II/1    608       1302
+2011_events\20110930events.txt->6180       1908   ////      1923  SAG  C   RSP  025-064   II/1    690           
+2011_events\20111001events.txt->6420 +     0906   ////      0922  COM  C   RSP  25-180    II/2    620           
+2011_events\20111001events.txt->6390 +     0955   ////      1007  LEA  C   RSP  25-180    II/1    850       1305
+2011_events\20111016events.txt->9670 +     1357   ////      1403  SVI  C   RSP  074-173   II/1    618       1317
+2011_events\20111021events.txt-> 560 +     1258   ////      1316  SAG  C   RSP  027-180   II/1    789           
+2011_events\20111106events.txt->3710 +     0618   ////      0629  CUL  C   RSP  060-120   II/1              1339
+2011_events\20111109events.txt->4320       1311   ////      1331  SVI  C   RSP  030-180   II/2    750       1342
+2011_events\20111114events.txt->5250 +     0922   ////      0932  SVI  C   RSP  031-164   II/1    610           
+2011_events\20111115events.txt->5390 +     0011   ////      0015  LEA  C   RSP  062-173   II/1    564       1347
+2011_events\20111115events.txt->5400       0012   ////      0016  CUL  C   RSP  100-180   II/1              1347
+2011_events\20111116events.txt->5770       1507   ////      1513  SAG  U   RSP  041-066   II/1    529       1348
+2011_events\20111117events.txt->5860 +     0141   ////      0146  LEA  C   RSP  041-115   II/1    456           
+2011_events\20111117events.txt->5950 +     0727   ////      0731  SVI  C   RSP  056-180   II/1    558       1346
+2011_events\20111119events.txt->6500 +     0129   ////      0129  PAL  C   RSP  025-180   II/1    542           
+2011_events\20111123events.txt->7330 +     0847   ////      0848  SVI  U   RSP  064-167   II/1    1008          
+2011_events\20111125events.txt->7520 +     2154   ////      2200  PAL  C   RSP  082-180   II/1    931       1359
+2011_events\20111222events.txt->1940 +     0204   ////      0223  LEA  C   RSP  025-145   II/1    921       1381
+2011_events\20111225events.txt->2460 +     1820   ////      1831  SAG  U   RSP  025-062   II/2    1019      1387

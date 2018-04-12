@@ -1,0 +1,74 @@
+2013_events\20121229events.txt  #Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+2013_events\20130111events.txt->2590       0914   ////      0920  SVI  C   RSP  040-170   II/1    537       1654
+2013_events\20130113events.txt->3130 +     0840   ////      0854  LEA  C   RSP  025-180   II/2    649           
+2013_events\20130118events.txt->4190       1710   ////      1711  SAG  C   RSP  053-180   II/2    1695      1654
+2013_events\20130204events.txt->5520       1502   ////      1504  SVI  U   RSP  071-180   II/1    849           
+2013_events\20130206events.txt->6100 +     0013   ////      0027  LEA  C   RSP  025-180   II/2    548       1667
+2013_events\20130305events.txt->8800 +     0756   ////      0805  LEA  C   RSP  036-180   II/1    1011      1686
+2013_events\20130319events.txt->1350 +     1415   ////      1415  SVI  C   RSP  102-131   II/1    850       1695
+2013_events\20130330events.txt->2490 +     1322   ////      1333  SAG  C   RSP  031-082   II/2    814           
+2013_events\20130411events.txt->5330 +     0702   ////      0709  CUL  C   RSP  045-160   II/3              1719
+2013_events\20130418events.txt->7100 +     1823   ////      1834  SAG  C   RSP  035-055   II/2    1273      1719
+2013_events\20130423events.txt->8690 +     1419   ////      1423  SVI  U   RSP  025-058   II/1    1159      1726
+2013_events\20130423events.txt->8850 +     1823   ////      1837  SAG  C   RSP  025-067   II/2    820       1723
+2013_events\20130424events.txt->9130 +     1229   ////      1230  SVI  C   RSP  034-043   II/1    788           
+2013_events\20130428events.txt-> 210 +     2018   ////      2032  PAL  C   RSP  025-117   II/2    576       1733
+2013_events\20130429events.txt-> 630 +     1935   ////      1939  PAL  C   RSP  025-086   II/2    824       1733
+2013_events\20130502events.txt->1320 +     0506   ////      0522  LEA  C   RSP  025-180   II/2    703       1731
+2013_events\20130503events.txt->1690       1756   ////      1755  SAG  C   RSP  025-048   II/1    1297      1731
+2013_events\20130513events.txt->4410 +     0210   ////      0215  LEA  C   RSP  025-180   II/1    2347          
+2013_events\20130513events.txt->4680 +     1557   ////      1620  SAG  C   RSP  025-180   II/2    949       1748
+2013_events\20130514events.txt->4880 +     0107   ////      0116  CUL  C   RSP  035-270   II/1                  
+2013_events\20130515events.txt->5160 +     0137   ////      0145  LEA  C   RSP  073-180   II/1    501       1748
+2013_events\20130517events.txt->5490 +     0850   ////      0918  SVI  U   RSP  025-180   II/2    376       1748
+2013_events\20130520events.txt->6330 +     1141   ////      1143  SVI  C   RSP  030-043   II/1    1061          
+2013_events\20130522events.txt->6870 +     1259   ////      1305  SAG  C   RSP  025-041   II/2    1962      1745
+2013_events\20130531events.txt->8350 +     1123   ////      1139  SAG  C   RSP  025-059   II/2    1173      1761
+2013_events\20130531events.txt->8370       1957   ////      2010  SAG  C   RSP  034-146   II/2    1393      1760
+2013_events\20130602events.txt->8550 +     1452   ////      1453  SAG  C   RSP  056-145   II/1    892       1760
+2013_events\20130602events.txt->8690       2351   ////      2355  LEA  C   RSP  047-180   II/1    534           
+2013_events\20130603events.txt->8700       0000   ////      0003  SAG  C   RSP  025-180   II/1    875           
+2013_events\20130614events.txt->9800 +     0012   ////      0016  LEA  C   RSP  025-099   II/1    431       1769
+2013_events\20130703events.txt->3110       0709   ////      0730  SVI  C   RSP  025-143   II/2    1033          
+2013_events\20130806events.txt->9310 +     0156   ////      0205  LEA  C   RSP  025-082   II/1    1411          
+2013_events\20130815events.txt-> 460 +     2217   ////      2237  SAG  C   RSP  025-078   II/1    1019      1817
+2013_events\20130815events.txt-> 470       2223   ////      2227  CUL  C   RSP  020-035   II/1                  
+2013_events\20130817events.txt-> 700       1856   ////      1902  SAG  C   RSP  025-055   II/2    1399          
+2013_events\20130830events.txt->2040 +     0212   ////      0222  LEA  C   RSP  025-124   II/1    1318      1836
+2013_events\20130919events.txt->4060       1947   ////      1954  SAG  C   RSP  028-079   II/1    797           
+2013_events\20131005events.txt->5940 +     0652   ////      0713  SVI  C   RSP  025-180   II/1    699           
+2013_events\20131009events.txt->6330 +     0146   ////      0157  CUL  C   RSP  030-170   II/1                  
+2013_events\20131011events.txt->6820 +     0711   ////      0720  LEA  C   RSP  025-180   II/2    510           
+2013_events\20131013events.txt->7270       0038   ////      0044  LEA  C   RSP  034-117   II/1    798       1865
+2013_events\20131013events.txt->7310 +     0711   ////      0723  SVI  C   RSP  029-180   II/1    688           
+2013_events\20131016events.txt->7850 +     0919   ////      0929  SVI  C   RSP  027-138   II/1    548           
+2013_events\20131022events.txt->9700 +     1334   ////      1339  SVI  U   RSP  036-116   II/1    669       1875
+2013_events\20131022events.txt->9790       1848   ////      1856  SAG  C   RSP  025-041   II/1    785       1875
+2013_events\20131022events.txt->9820 +     2121   ////      2318  CUL  C   RSP  023-230   II/2              1875
+2013_events\20131022events.txt->9830       2122   ////      2125  SAG  C   RSP  025-180   II/1    1955          
+2013_events\20131022events.txt->9840       2129   ////      2138  SAG  C   RSP  025-039   II/1    752           
+2013_events\20131024events.txt-> 310 +     0031   ////      0040  LEA  C   RSP  031-110   II/1    1321      1877
+2013_events\20131025events.txt-> 730 +     0259   ////      0312  LEA  C   RSP  028-117   II/2    711           
+2013_events\20131025events.txt-> 790 +     0759   ////      0810  SVI  C   RSP  025-180   II/2    1240          
+2013_events\20131025events.txt-> 820 +     0859   ////      0903  SVI  C   RSP  045-145   II/1    686       1882
+2013_events\20131025events.txt-> 940 +     1336   ////      1340  SAG  C   RSP  048-166   II/1    1083          
+2013_events\20131025events.txt-> 970 +     1458   ////      1514  SAG  C   RSP  025-180   II/2    2078          
+2013_events\20131026events.txt->1480 +     0931   ////      0942  SVI  C   RSP  025-082   II/2    1275          
+2013_events\20131028events.txt->2550 +     0200   ////      0204  CUL  C   RSP  080-180   II/2              1875
+2013_events\20131028events.txt->2690       0437   ////      0441  LEA  C   RSP  025-117   II/2    508       1875
+2013_events\20131028events.txt->2990       0452   ////      0457  CUL  C   RSP  035-057   II/1              1877
+2013_events\20131028events.txt->2850 +     1510   ////      1529  SAG  C   RSP  025-180   II/2    1855          
+2013_events\20131029events.txt->3380 +     2148   ////      2210  CUL  C   RSP  025-300   II/1              1875
+2013_events\20131102events.txt->4060       0446   ////      0450  LEA  C   RSP  076-180   II/1    584       1885
+2013_events\20131105events.txt->5050 +     2213   ////      2222  CUL  C   RSP  040-450   II/3              1890
+2013_events\20131105events.txt->5060       2220   ////      2227  CUL  C   RSP  060-180   II/1                  
+2013_events\20131106events.txt->5330 +     1346   ////      1402  SVI  C   RSP  070-170   II/2    586       1890
+2013_events\20131107events.txt->5540 +     0341   ////      0347  CUL  C   RSP  090-270   II/1              1890
+2013_events\20131107events.txt->5710 +     1417   ////      1435  SAG  C   RSP  025-180   II/1    633       1890
+2013_events\20131108events.txt->5920 +     0424   ////      0436  COM  C   RSP  30-80     II/1    834       1890
+2013_events\20131110events.txt->6280 +     0513   ////      0525  LEA  C   RSP  025-180   II/2    1012      1890
+2013_events\20131119events.txt->9100       1024   ////      1029  LEA  C   RSP  036-180   II/1    1049      1893
+2013_events\20131207events.txt->1720 +     0727   ////      0747  LEA  C   RSP  030-180   II/1    691       1909
+2013_events\20131212events.txt->2310 +     0317   ////      0326  CUL  C   RSP  020-060   II/1              1912
+2013_events\20131214events.txt->2660       0640   ////      0641  LEA  C   RSP  025-180   II/1    500           
+2013_events\20131215events.txt->3030 +     2028   ////      2042  CUL  C   RSP  040-110   II/1                  
