@@ -8,7 +8,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 
 #--------------------------------------------------------------------------------
-plt.figure(figsize=(10,7))
+plt.figure(figsize=(7,5))
 r = np.arange(1.0, 3.0, 0.01)  # create a list of radii
 fp = 307.86 * r**(-3.64) - 0.14 # equation from Nat Gopalswamy
 #plt.plot(r,fp,'-sb') # plot function single dots blue
@@ -23,6 +23,7 @@ plt.grid(True)
 #plt.yscale('log')
 #plt.xscale('log')
 plt.tick_params(labelsize=20)
+plt.tight_layout()
 plt.savefig("plasmafrequency.pdf")
 plt.show()
 #--------------------------------------------------------------------------------
