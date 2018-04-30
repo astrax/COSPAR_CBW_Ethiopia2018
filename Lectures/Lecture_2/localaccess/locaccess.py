@@ -34,4 +34,5 @@ plt.xlabel('Time [s] of FIT-file: ' + myfile,fontsize=15)
 plt.ylabel('Plasma frequency [MHz]',fontsize=15)
 plt.title('FIT file previously saved in local folder.',fontsize=15)
 plt.savefig(myfile + ".png")
+plt.show()
 #------------------------------------------------------------------------------
