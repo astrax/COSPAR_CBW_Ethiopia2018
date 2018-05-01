@@ -41,11 +41,10 @@ win.add_tool(PointTool, handle_final_shape_cb=fun)
 
 #filename = osp.join(osp.dirname(__file__), "GAURI_20110809_075959_59.fit.gz.png")
 #image = make.image(filename=filename, colormap="bone")
-
-image = make.image(data)
+print(np.shape(data))
+image = make.xyimage(time,freqs,data,colormap='gray')
 
 plot = win.get_plot()
 plot.add_item(image)
-
 
 win.exec_()

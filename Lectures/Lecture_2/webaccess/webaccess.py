@@ -19,6 +19,7 @@ url = 'http://soleil.i4ds.ch/solarradio/data/2002-20yy_Callisto/2011/08/09/BLEN7
  
 print "Downloading FIT-file with urllib from: "+url
 myfile = url.rsplit('/', 1)[1] # extract filename from URL
+print(myfile)
 urllib.urlretrieve(url, myfile)
 
 hdu   = pyfits.open(myfile)
@@ -38,4 +39,5 @@ plt.xlabel('Time [s] of FIT-file: ' + myfile,fontsize=15)
 plt.ylabel('Plasma frequency [MHz]',fontsize=15)
 plt.title('FIT file taken directly from Callisto website.',fontsize=15)
 plt.savefig(myfile + ".png")
+plt.show()
 #------------------------------------------------------------------------------

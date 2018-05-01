@@ -1,4 +1,4 @@
-Lesson 2
+# Lesson 2
 
 a) files access 3 different methods
 - 2.1 save FIT-file(s) in the local folder, the same as the location of the Python script -> localaccess.py
