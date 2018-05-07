@@ -7,7 +7,9 @@ Check version of pip: type pip --version
 
 
 Change/edit configuration
-Spyder: Tools->Preferences->ObjectInspector Enable Automatic connections
+In Spyder 2: Tools->Preferences->ObjectInspector Enable Automatic connections
+
+In Spyder 3: Tools->Preferences->Help Enable Automatic connections
 
 ctrl+i -> information about a function, e.g. ctrl+i savefig(..)
 ctrl+. -> kills and restarts kernel

@@ -36,7 +36,7 @@ timemarker=3590  # play with me
 ref =  data[:,timemarker]
 bgs = np.transpose(np.transpose(data) - ref)  # subtract average 
 
-plt.imshow(bgs, aspect = 'auto', extent = extent, cmap='gnuplot', vmin=-6,vmax=40) 
+plt.imshow(bgs, aspect = 'auto', extent = extent, cmap='CMRmap', vmin=-6,vmax=40) 
 # cm.PRGn, cm.hot, cm.cool, cm.bone, cm.binary, cm.spectral, cm.jet, cm.inferno
 # cm.gnuplot, cm.gnuplot2, cm.CMRmap, cm.plasma, cm.magma
 plt.tick_params(labelsize=14)

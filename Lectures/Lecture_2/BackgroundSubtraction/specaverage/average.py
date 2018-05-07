@@ -35,7 +35,7 @@ extent = (time[0], time[-1], freqs[-1], freqs[0])
 
 bgs = data -  data.mean(axis=1, keepdims=True)  # subtract average
 
-plt.imshow(bgs, aspect = 'auto', extent = extent, cmap='gnuplot', vmin=3,vmax=40) 
+plt.imshow(bgs, aspect = 'auto', extent = extent, cmap='CMRmap', vmin=3,vmax=40) 
 # cm.PRGn, cm.hot, cm.cool, cm.bone, cm.binary, cm.spectral, cm.jet, cm.inferno
 # cm.gnuplot, cm.gnuplot2, cm.CMRmap, cm.plasma, cm.magma
 plt.tick_params(labelsize=14)
