@@ -1,0 +1,14 @@
+../events/2010_events\20100101events.txt  #Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+../events/2010_events\20100318events.txt->1130 +     2311   ////      2314  PAL  U   RSP  025-134   II/1    776       1054
+../events/2010_events\20100325events.txt->1530 +     0129   ////      0135  CUL  C   RSP  60-140    II/1                  
+../events/2010_events\20100612events.txt->4330 +     0057   ////      0107  LEA  C   RSP  029-179   II/2    1360      1081
+../events/2010_events\20100613events.txt->4450 +     0538   ////      0552  SVI  C   RSP  035-180   II/1    621       1079
+../events/2010_events\20100807events.txt->8510 +     1808   ////      1815  COM  C   RSP  30-80     II/2    675       1093
+../events/2010_events\20100814events.txt->2540 +     0952   ////      1009  SVI  C   RSP  025-180   II/1    406       1099
+../events/2010_events\20100818events.txt->2890 +     0551   ////      0555  SVI  C   RSP  025-055   II/1    545       1099
+../events/2010_events\20101016events.txt->6730       1914   ////      1923  PAL  C   RSP  025-180   II/3    1385      1112
+../events/2010_events\20101016events.txt->6730 +     1916   ////      1921  SAG  C   RSP  42-180    II/3    929           
+../events/2010_events\20101103events.txt->8540 +     1216   ////      1219  SVI  U   RSP  118-167   II/1    837           
+../events/2010_events\20101112events.txt->9460       0139   ////      0140  LEA  C   RSP  025-180   II/1    505           
+../events/2010_events\20101112events.txt->9490 +     0141   ////      0150  CUL  C   RSP  057-160   II/1                  
+../events/2010_events\20101231events.txt->2700       0424   ////      0433  LEA  C   RSP  029-156   II/1    875       1138
