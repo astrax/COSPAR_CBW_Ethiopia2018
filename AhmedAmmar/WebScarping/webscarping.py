@@ -10,14 +10,25 @@ Help sources:
 '''
 
 #import urllib2 # for python 2
+import os
 import urllib
 from bs4 import BeautifulSoup
 
-
-url = "http://soleil80.cs.technik.fhnw.ch/solarradio/data/2002-20yy_Callisto/2017/09/06/"
+year = "2017"
+month = "09"
+day ="06"
+url = "http://soleil80.cs.technik.fhnw.ch/solarradio/data/2002-20yy_Callisto/" + year + "/" + month + "/" + day + "/"
 
 #dist_dir="H:\\COSPAR_DATA\\CALLISTO\\2017\\09\\04\\" # external hard disc
-dist_dir= "..\\DataCALLISTO\\" # local 
+data_dir= "..\\DataCALLISTO\\"
+if not os.path.isdir(data_dir + year + "\\"):
+    os.mkdir(data_dir + year + "\\")
+if not os.path.isdir(data_dir + year + "\\" + month + "\\"):
+    os.mkdir(data_dir + year + "\\" + month + "\\")
+if not os.path.isdir(data_dir + year + "\\" + month + "\\" + day + "\\"):
+    os.mkdir(data_dir + year + "\\" + month + "\\" + day + "\\")
+    
+dist_dir= "..\\DataCALLISTO\\" + year + "\\"+ month + "\\" + day + "\\" # local 
 site = urllib.urlopen(url)
 html = site.read()
 soup = BeautifulSoup(html, "lxml")
