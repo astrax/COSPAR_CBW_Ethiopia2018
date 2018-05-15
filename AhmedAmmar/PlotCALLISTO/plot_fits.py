@@ -24,7 +24,7 @@ plt.savefig(files+'_raw.png')
 img_nobg = image.subtract_bg()
 img_nobg.plot(vmin=-3)
 #plt.xlim((2000,3600)) # express limits in column number 0...3599
-
+#plt.ylim((2000,3600))
 plt.savefig(files+'_nobg.png')
 plt.tight_layout()
 plt.show()

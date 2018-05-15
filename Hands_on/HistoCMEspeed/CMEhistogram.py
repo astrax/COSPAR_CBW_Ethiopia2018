@@ -15,14 +15,16 @@ plt.figure(figsize=(12,8))
 myfile = 'MyBurstFile_TypeII_2010.txt'
 
 with open(myfile, 'r') as infile:
+
     data = infile.read() 
 
-my_list = data.splitlines() 
-
+my_list = data.splitlines()[1:]
+print my_list
 vcme = []
 del vcme[:]
 for line in my_list:
-    st = line[96:105] # access velocity
+    st = line[-14:-10] # access velocity
+    print(st)
     try:
         y = float(st)
     except ValueError,e:
