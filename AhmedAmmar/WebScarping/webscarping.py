@@ -14,9 +14,9 @@ import os
 import urllib
 from bs4 import BeautifulSoup
 
-year = "2017"
-month = "09"
-day ="06"
+year = "2014"
+month = "02"
+day ="20"
 url = "http://soleil80.cs.technik.fhnw.ch/solarradio/data/2002-20yy_Callisto/" + year + "/" + month + "/" + day + "/"
 
 #dist_dir="H:\\COSPAR_DATA\\CALLISTO\\2017\\09\\04\\" # external hard disc
@@ -46,7 +46,7 @@ for i in range(5, len(list_urls)-1):
     url2= url + myfile
     myfile = url2.rsplit('/', 1)[1] # extract filename from URL
     # StationName = myfile[:-26]
-    if myfile[:-26]=='GREENLAND' and 11<= int(myfile[-16:-14])<=13:
+    if myfile[:-26]=='OOTY' and 7<= int(myfile[-16:-14])< 8 :
         print(myfile)
         #Save files in directory
         urllib.urlretrieve(url2, dist_dir+myfile)
